@@ -65,6 +65,8 @@ Another Example:
 
 ## 5. Trailhead Screenshots
 <img width="1835" height="872" alt="image" src="https://github.com/user-attachments/assets/bf5ba1b9-3242-453c-bbed-1089d4391f83" />
+<img width="1887" height="888" alt="image" src="https://github.com/user-attachments/assets/f484cfe7-bcbe-4c54-8f98-24581dd76334" />
+
 
 <img width="1786" height="855" alt="image" src="https://github.com/user-attachments/assets/9c644f42-b116-417c-892d-0b7fcddc5160" />
 
