@@ -64,3 +64,5 @@ Another Example:
 ---
 
 ## 5. Trailhead Screenshots
+<img width="1786" height="855" alt="image" src="https://github.com/user-attachments/assets/9c644f42-b116-417c-892d-0b7fcddc5160" />
+
