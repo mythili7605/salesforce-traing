@@ -61,6 +61,8 @@ Student Management App
 ---
 
 ## 5. Screenshots from Trailhead
+<img width="1875" height="911" alt="image" src="https://github.com/user-attachments/assets/e62aef64-c9ab-449f-97a1-f6141607709f" />
+
 <img width="1911" height="903" alt="image" src="https://github.com/user-attachments/assets/97f9fc2c-d598-4ca7-958e-3e507269cdee" />
 
 
